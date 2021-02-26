@@ -1,0 +1,17 @@
+# Example of machine learning using MNIST
+
+As an exercise to get famaliar with machine learning a python program is created to clasify handwritten images from the MNIST data set.
+The program is written such that it gives an understanding into the basics of machine learning. The program is not desinged to be fast.
+
+The program exist out of three files: 
+1: NeuralNetworkHandWrittenImage.py
+2: NeuralNetworkFast.py
+3: MNISTDataLoader.py
+
+*NeuralNetworkHandWrittenImage.py* Runs the main program
+
+*NeuralNetworkFast.py* This program creates a neural network and its training methods
+
+*MNISTDataLoader.py* This program decodes the data files into useful format for the NeuralNetworkHandWrittenImage.py program
+
+More information about the basics of machine learning can be found at: http://neuralnetworksanddeeplearning.com/chap1.html
